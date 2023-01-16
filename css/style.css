@@ -1,0 +1,30 @@
+header {
+    background-color: #EDEDED;
+    text-align: center;
+    /*
+        border-width: 0px 0px 10px 0px;
+        border-style: solid;
+        border-color: #CF8E33;
+    */
+    border-bottom: #CF8E33 solid 2px ;
+}
+
+main {
+    margin-left: 15px;
+}
+
+h2 {
+    color: #CF8E33;
+}
+
+.item h3 {
+    font-style: italic;
+}
+
+hr {
+    border-color: #CF8E33;
+}
+
+footer p {
+    font-size: 12px;
+}
