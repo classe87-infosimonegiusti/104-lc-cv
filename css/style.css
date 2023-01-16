@@ -28,3 +28,9 @@ hr {
 footer p {
     font-size: 12px;
 }
+
+.prova_sfondo {
+    height: 200px;
+    background-color: blue;
+    background-image: url("../img/prova.jpg");
+}
